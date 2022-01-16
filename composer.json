@@ -1,0 +1,16 @@
+{
+    "name": "bakha/mvc_01",
+    
+    "authors": [
+        {
+            "name": "BakhadyrovF",
+            "email": "BakhadyrovF@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
